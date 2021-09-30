@@ -1,0 +1,10 @@
+INSERT INTO PRODUCTS(name, description, price) VALUES('COMBO1', 'Para uma pessoa', 59.99);
+INSERT INTO PRODUCTS(name, description, price) VALUES('COMBO2', 'Para duas pessoa', 69.99);
+INSERT INTO PRODUCTS(name, description, price) VALUES('COMBO3', 'Para tres pessoa', 79.99);
+INSERT INTO PRODUCTS(name, description, price) VALUES('COMBO4', 'Para quatro pessoa', 89.99);
+INSERT INTO PRODUCTS(name, description, price) VALUES('COMBO5', 'Para cinco pessoa', 99.99);
+INSERT INTO PRODUCTS(name, description, price) VALUES('COMBO6', 'Para seis pessoa', 109.99);
+INSERT INTO PRODUCTS(name, description, price) VALUES('COMBO7', 'Plano empresarial basico', 209.99);
+INSERT INTO PRODUCTS(name, description, price) VALUES('COMBO8', 'Plano empresarial essencial', 309.99);
+INSERT INTO PRODUCTS(name, description, price) VALUES('COMBO9', 'Plano empresarial top', 409.99);
+INSERT INTO PRODUCTS(name, description, price) VALUES('COMBO10', 'Plano empresarial premium', 509.99);

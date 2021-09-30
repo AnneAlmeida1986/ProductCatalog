@@ -1,5 +1,5 @@
-# ProductCatalog
-Desafio Allura - Fast track
+# DESAFIO FAST TRACK - COMPASSO
+
 
 
 # Catálogo de produtos
